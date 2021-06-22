@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadirgulteekin
 - 👀 I’m interested in the operation and design of mechanical systems, as well as web and mobile software.
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT and also framework
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,C#,Angular and also another framework
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me www.linkedin.com/in/kadirgulteekin
 
