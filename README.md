@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                                                      # 💫 Software Engineer | Kadir GULTEKIN 
 Hello, I'm Kadir. I have extensive experience in software development and I am currently focusing on .NET and Angular technologies. I consider my passion for coding to be a driving force in my work, and I strive to achieve the best performance in every project. On my Github profile, you can explore my sample projects and code snippets to get a feel for what it's like to work with me.
 
 
