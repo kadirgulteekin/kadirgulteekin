@@ -1,8 +1,4 @@
                                                        # 💫 Software Engineer | Kadir GULTEKIN 
-For me, the programming adventure started with Assembly Language in high school in 2013. Since then, I have been developing projects and
-improving myself as a talented "IT Guy". I have improved myself not only with programming but also with technology which helped me a lot
-to understand what the actual coding and challenges are. While these developments were ongoing, I used many programming languages and
-tools, most of which belonged to Microsoft. Many design models and approaches helped me a lot on this difficult path.
 
 
 
